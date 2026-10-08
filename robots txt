@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /affiliate-system.html
+Disallow: /automation.html
+Disallow: /buyer.html
+
+Sitemap: https://raazibobisingh.github.io/W/sitemap.xml
