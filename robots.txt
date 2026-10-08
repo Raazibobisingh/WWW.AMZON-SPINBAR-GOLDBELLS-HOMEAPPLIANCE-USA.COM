@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /buyer.html
+Allow: /apple-dainty-gold.jpg
+Allow: /logo.png
+Disallow: /admin.html
+Disallow: /manifest.json
+Disallow: /sw.js
+
+Sitemap: https://www.daintygoldspinbartrendingusa.com/sitemap.xml
+Sitemap: https://raazibobisingh.github.io/W/sitemap.xml
+
+# DaintyGoldSpinBarTrendingUSA.com - Apple Dainty Gold Edition 2026
+# 7 SpinBar Whiskey Smokers $40-$180 + 5 Goldbells Decor $20-$100 + Apple Dainty Gold $99-$129
+# Official Store - USA India Best Home Appliance - 4.8 Star 12,847+ Customers
+# Google Verification Code Option Left For Later In index.html - REPLACE_YOUR_CODE_HERE
